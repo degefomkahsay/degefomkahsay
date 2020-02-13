@@ -1,7 +1,6 @@
 <Doctype html>
 <html>
 <head>
-<title>Read me</title>
 </head>
 <body>
 <h1>This is my first git</h1>
